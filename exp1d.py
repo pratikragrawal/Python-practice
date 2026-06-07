@@ -1,0 +1,1 @@
+print("‘ Rohit’ s date of birth is 12/05/1999’");
